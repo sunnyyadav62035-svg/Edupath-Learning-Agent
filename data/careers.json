@@ -1,1 +1,52 @@
-
+{
+  "machine_learning_engineer": {
+    "name": "Machine Learning Engineer",
+    "description": "Build, evaluate, deploy, and maintain machine learning systems.",
+    "skills": {"python": {"required_level": 5, "importance": 5}, "statistics": {"required_level": 4, "importance": 5}, "machine_learning": {"required_level": 5, "importance": 5}, "sql": {"required_level": 4, "importance": 4}, "pandas": {"required_level": 4, "importance": 4}, "numpy": {"required_level": 4, "importance": 4}, "scikit_learn": {"required_level": 4, "importance": 5}, "deep_learning": {"required_level": 4, "importance": 4}, "git": {"required_level": 3, "importance": 3}, "deployment": {"required_level": 3, "importance": 4}}
+  },
+  "data_scientist": {
+    "name": "Data Scientist",
+    "description": "Turn data into useful analysis, forecasts, and business decisions.",
+    "skills": {"python": {"required_level": 4, "importance": 5}, "statistics": {"required_level": 5, "importance": 5}, "machine_learning": {"required_level": 4, "importance": 5}, "sql": {"required_level": 4, "importance": 5}, "pandas": {"required_level": 5, "importance": 5}, "data_visualization": {"required_level": 4, "importance": 4}, "git": {"required_level": 3, "importance": 2}, "communication": {"required_level": 4, "importance": 4}}
+  },
+  "data_analyst": {
+    "name": "Data Analyst",
+    "description": "Analyze data and communicate clear, actionable insights.",
+    "skills": {"sql": {"required_level": 5, "importance": 5}, "excel": {"required_level": 4, "importance": 4}, "python": {"required_level": 3, "importance": 4}, "pandas": {"required_level": 4, "importance": 5}, "data_visualization": {"required_level": 5, "importance": 5}, "statistics": {"required_level": 3, "importance": 4}, "communication": {"required_level": 4, "importance": 4}}
+  },
+  "ai_engineer": {
+    "name": "AI Engineer",
+    "description": "Ship dependable AI features and intelligent applications.",
+    "skills": {"python": {"required_level": 5, "importance": 5}, "machine_learning": {"required_level": 4, "importance": 5}, "deep_learning": {"required_level": 4, "importance": 4}, "llm": {"required_level": 4, "importance": 5}, "api_development": {"required_level": 4, "importance": 4}, "deployment": {"required_level": 4, "importance": 4}, "git": {"required_level": 3, "importance": 3}, "sql": {"required_level": 3, "importance": 3}}
+  },
+  "software_engineer": {
+    "name": "Software Engineer",
+    "description": "Design, build, test, and maintain production software.",
+    "skills": {"python": {"required_level": 4, "importance": 4}, "data_structures": {"required_level": 5, "importance": 5}, "algorithms": {"required_level": 4, "importance": 5}, "git": {"required_level": 4, "importance": 4}, "testing": {"required_level": 4, "importance": 4}, "api_development": {"required_level": 3, "importance": 3}, "databases": {"required_level": 3, "importance": 3}, "communication": {"required_level": 3, "importance": 3}}
+  },
+  "data_engineer": {
+    "name": "Data Engineer",
+    "description": "Build reliable pipelines, warehouses, and data platforms.",
+    "skills": {"python": {"required_level": 4, "importance": 4}, "sql": {"required_level": 5, "importance": 5}, "databases": {"required_level": 4, "importance": 4}, "etl": {"required_level": 5, "importance": 5}, "cloud": {"required_level": 4, "importance": 4}, "docker": {"required_level": 3, "importance": 3}, "git": {"required_level": 3, "importance": 3}, "data_modeling": {"required_level": 4, "importance": 4}}
+  },
+  "cloud_engineer": {
+    "name": "Cloud Engineer",
+    "description": "Build secure, scalable cloud infrastructure and automation.",
+    "skills": {"cloud": {"required_level": 5, "importance": 5}, "linux": {"required_level": 4, "importance": 4}, "networking": {"required_level": 4, "importance": 4}, "docker": {"required_level": 4, "importance": 4}, "kubernetes": {"required_level": 3, "importance": 4}, "terraform": {"required_level": 4, "importance": 4}, "python": {"required_level": 3, "importance": 3}, "git": {"required_level": 3, "importance": 3}}
+  },
+  "cybersecurity_analyst": {
+    "name": "Cybersecurity Analyst",
+    "description": "Monitor, investigate, and improve an organization's security posture.",
+    "skills": {"networking": {"required_level": 5, "importance": 5}, "linux": {"required_level": 4, "importance": 4}, "cybersecurity": {"required_level": 5, "importance": 5}, "security_tools": {"required_level": 4, "importance": 4}, "python": {"required_level": 3, "importance": 3}, "cloud": {"required_level": 3, "importance": 3}, "communication": {"required_level": 3, "importance": 3}}
+  },
+  "full_stack_developer": {
+    "name": "Full Stack Developer",
+    "description": "Build polished web products across frontend, backend, and data layers.",
+    "skills": {"html_css": {"required_level": 4, "importance": 4}, "javascript": {"required_level": 5, "importance": 5}, "react": {"required_level": 4, "importance": 4}, "api_development": {"required_level": 4, "importance": 4}, "databases": {"required_level": 4, "importance": 4}, "git": {"required_level": 4, "importance": 3}, "testing": {"required_level": 3, "importance": 3}, "deployment": {"required_level": 3, "importance": 3}}
+  },
+  "generative_ai_engineer": {
+    "name": "Generative AI Engineer",
+    "description": "Create responsible LLM applications, retrieval systems, and AI experiences.",
+    "skills": {"python": {"required_level": 5, "importance": 5}, "llm": {"required_level": 5, "importance": 5}, "prompt_engineering": {"required_level": 4, "importance": 5}, "machine_learning": {"required_level": 4, "importance": 4}, "vector_databases": {"required_level": 4, "importance": 4}, "api_development": {"required_level": 4, "importance": 4}, "deployment": {"required_level": 3, "importance": 3}, "git": {"required_level": 3, "importance": 3}}
+  }
+}
