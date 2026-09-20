@@ -1,1 +1,1 @@
-
+"""Shared utilities for EduPath."""
